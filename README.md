@@ -1,1 +1,1 @@
-# ai_ml_2024
+# machine_learning_2024
